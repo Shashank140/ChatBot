@@ -85,6 +85,74 @@
             ]
           },
           {
+            "tag": "Books",
+            "patterns": [
+              "Which is the best selling book on Amazon in 2022?",
+              "Which is the best poem book on Amazon in 2022"
+              
+            ],
+            "responses": [
+              "Atomic Habits by James Clear",
+              "Clarity and Connection by Yung Pueblo"
+            ]
+          },
+          {
+            "tag": "Education",
+            "patterns": [
+              "Best website to learn new skills?",
+              "Where to get a nanodegree online",
+              "Best free source to learn any skill on youtube?"
+            ],
+            "responses": [
+              "Udemy",
+              "Udacity",
+              "Freecodecamp"
+            ]
+          },
+          {
+            "tag": "Quotes",
+            "patterns": [
+              "Tell me a quote?"
+            ],
+            "responses": [
+              "The story of life is quicker than the wink of an eye. - Jimi Hendrix",
+              "Persist while others are quitting. - William Arthur Ward",
+              "Everything that we do today determines how we're going to live life tomorrow. - Martin Dasko"
+            ]
+          },
+          {
+            "tag": "National",
+            "patterns": [
+              "National Fruit of India?",
+              "National Bird of India?",
+              "National fish of India?",
+              "National flower of India"
+            ],
+            "responses": [
+              "Mango",
+              "Peacock",
+              "Ganga Dolphin",
+              "Lotus"
+            ]
+          },
+          {
+            "tag": "Facts about India",
+            "patterns": [
+              "Tell me a fact about India"
+            ],
+            "responses": [
+              "India has over 300,000 mosques and over 2 million Hindu temples",
+              "Chenab Bridge is the highest rail bridge in the world",
+              "The popular game “Snakes and Ladders” originated in India",
+              "India was the first country to mine diamonds",
+              "A village with no locks and doors may be the safest on Earth",
+              " India has the highest population of vegetarians",
+              "India has one of the lowest divorce rates in the world",
+              "Frogs Are Married Off"
+            ]
+          },
+          
+          {
             "tag": "funny",
             "patterns": [
               "Tell me a joke!",
